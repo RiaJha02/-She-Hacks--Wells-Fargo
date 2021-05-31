@@ -1,4 +1,4 @@
-# -She-Hacks--Wells-Fargo
+# SheHacks-Shaastra-21-WellsFargo
 The challenge was to predict the unique headcount of students enrolled at a university based on different attributes. 
 The dataset provided gives a demographic data on the students of a University in Canada. 
 Methods explored are Linear Regression, Random Forest and Decision Tree.
